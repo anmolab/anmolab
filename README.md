@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anmol 
 
 ## About Me
-- 🔭 I’m currently working on new web dev technologies and build projects using them.
+- 🔭 I’m currently working on new technologies and building projects using them.
 - 🌱 I’m currently learning Typescipt, NextJS and AI development.
 - 👯 I’m looking to collaborate or contribute my skills.
 - 💬 Ask me about web development, finance and programming.
