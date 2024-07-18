@@ -9,13 +9,15 @@
 - ⚡ Hobbies : I love trading and travelling.
 
 ## Skills
-- **Languages**: 
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+- **Languages**:
   - ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 - **Frameworks and Libraries**: 
   - ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
   - ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  - ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 - **Databases**: 
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
   - ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
