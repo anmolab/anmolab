@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate or contribute my skills.
 - 💬 Ask me about web development, finance and programming.
 - 📫 How to reach me: anmolbansal029@gmail.com
-- ⚡ Fun fact: I love trading and travelling.
+- ⚡ Hobbies : I love trading and travelling.
 
 ## Skills
 - **Languages**: 
