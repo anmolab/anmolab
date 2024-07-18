@@ -26,7 +26,7 @@
 I enjoy solving algorithmic problems on platforms like LeetCode to improve my problem-solving skills and algorithms knowledge. You can find some of my solutions and approaches in my [LeetCode profile](https://leetcode.com/u/anmolbansal029/).
 
 ## Projects
-- [ThirdEye-AI]([(https://github.com/anmolab/ThirdEye-AI)](https://thirdeye-ai.vercel.app/)): A web app that helps you track your tasks
+- [ThirdEye-AI](https://thirdeye-ai.vercel.app/): A web app that helps you track your tasks
 - [Project 2](https://github.com/yourusername/project2): A machine learning model for predicting stock prices
 - [Project 3](https://github.com/yourusername/project3): A personal blog built with Gatsby
 
