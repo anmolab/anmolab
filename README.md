@@ -29,7 +29,7 @@ I enjoy solving algorithmic problems on platforms like LeetCode to improve my pr
 
 ## Projects
 - [Quickkart](https://quickkart-frontend.vercel.app/): A MERN E-commerce store website.
-- [ThirdEye-AI](https://thirdeye-ai.vercel.app/) : A web app that works like CCTV.
+- [Crypto Arbitrage Bot](https://github.com/anmolab/Crypto-Arbitrage-Bot) : An arbitrage calculator for various crypto pairs on Coindcx platform.
 
 ## Connect with me
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-bansal-090298201/)
