@@ -10,34 +10,15 @@
 
 ## 🛠️ Skills  
 
-- **Languages**:  
-  - ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)  
-  - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
-  - ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)   
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) |
+| **Frameworks & Libraries** | ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft-SQL-Server) ![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-000?&logo=Azure-Synapse-Analytics) |
+| **Cloud & Data Engineering** | ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-000?&logo=Microsoft-Azure) ![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-000?&logo=Databricks) ![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-000?&logo=Microsoft-Azure) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI) ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) |
+| **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) |
 
-- **Frameworks and Libraries**:  
-  - ![PySpark](https://img.shields.io/badge/-PySpark-000?&logo=Apache-Spark)  
-  - ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)  
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)    
-
-- **Databases**:  
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)  
-  - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=Microsoft-SQL-Server)  
-  - ![Azure Synapse](https://img.shields.io/badge/-Azure%20Synapse-000?&logo=Azure-Synapse-Analytics)  
-
-- **Cloud & Data Engineering Tools**:  
-  - ![Azure Data Factory](https://img.shields.io/badge/-Azure%20Data%20Factory-000?&logo=Microsoft-Azure)  
-  - ![Azure Databricks](https://img.shields.io/badge/-Azure%20Databricks-000?&logo=Databricks)  
-  - ![Azure Data Lake](https://img.shields.io/badge/-Azure%20Data%20Lake-000?&logo=Microsoft-Azure)  
-
-- **Visualization**:  
-  - ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI)  
-  - ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  
-
-- **Version Control & Collaboration**:  
-  - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)  
-  - ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)  
 
 ---
 
