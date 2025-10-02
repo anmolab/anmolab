@@ -19,13 +19,6 @@
 | **Visualization** | ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI) ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) |
 | **Version Control & Collaboration** | ![Git](https://img.shields.io/badge/-Git-000?&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub) |
 
-
----
-
-## 📊 LeetCode
-I enjoy solving algorithmic problems on platforms like LeetCode to improve my problem-solving skills and algorithms knowledge.  
-You can find some of my solutions and approaches in my [LeetCode profile](https://leetcode.com/u/anmolbansal029/).  
-
 ---
 
 ## 📂 Projects
